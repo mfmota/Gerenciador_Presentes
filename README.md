@@ -54,7 +54,7 @@ Este projeto é uma aplicação Django para gerenciar presentes de um casamento.
    ```bash
     python manage.py runserver
 
-## Detalhees Adicioais:
+## Detalhes Adicioais:
 ### Gerenciamento de Convidados
 Ao cadastrar um convidado, um token único é gerado automaticamente. Este token é utilizado para gerar um link exclusivo para o convidado, permitindo acesso à sua página pessoal.
 
@@ -63,11 +63,11 @@ http://127.0.0.1:8000/convidados/?token=<TOKEN>
 
 ### Gerenciamento de Presentes
 Os presentes podem ser cadastrados com:
+- Nome
+- Foto
+- Preço
+- Nível de importância (1-5)
 
-Nome
-Foto
-Preço
-Nível de importância (1-5)
 Os presentes podem ser reservados pelos convidados diretamente via link exclusivo.
 
 ## Melhorias Futuras
