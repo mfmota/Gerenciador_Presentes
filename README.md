@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Presentes
 
-Este projeto é uma aplicação Django para gerenciar presentes de um casamento. Ele inclui funcionalidades para gerenciamento de convidados e presentes, permitindo que os noivos adicionem presentes e convidados reservem os que desejarem para presentear os noivos.
+Este projeto é uma aplicação Django para gerenciar presentes de um casamento. Ele inclui funcionalidades para gerenciamento de convidados e presentes, permitindo que os noivos adicionem presentes, e convidados reservem os presentes que desejarem para presentearem os noivos.
 
 ---
 
